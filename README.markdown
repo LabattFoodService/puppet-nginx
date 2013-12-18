@@ -1,6 +1,6 @@
 # NGINX Module
 
-James Fryman <james@frymanet.com>
+Forked from: James Fryman <james@frymanet.com> (github.com/jfryman/puppet-nginx)
 
 This module manages NGINX configuration.
 
